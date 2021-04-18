@@ -14,3 +14,4 @@
 | 20-2학기 | AI야, 진짜 뉴스를 찾아줘! | 상위 74% | https://dacon.io/competitions/official/235658/overview/description/ |
 | 21-1학기 | 운동 동작 분류 AI 경진대회 | 상위 13% | https://dacon.io/competitions/official/235689/overview/description/ |
 | 21-1학기 | Tabular Playground Series - Mar 2021 |  | https://www.kaggle.com/c/tabular-playground-series-mar-2021 |
+| 21-1학기 | M5 Forecasting - Accuracy |  | https://www.kaggle.com/c/m5-forecasting-accuracy/overview |
