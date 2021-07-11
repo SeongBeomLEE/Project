@@ -4,7 +4,7 @@
 
 | 시기 | 공모전 및 프로젝트명 | 결과 | 기타 |
 | :--- | :--- | :--- | :--- |
-| 21년-하반기 | [동서발전 태양광 발전량 예측 AI 경진대회]() | 6등 / 234 | [대회 홈페이지](https://dacon.io/competitions/official/235720/overview/description/) |
+| 21년-하반기 | [동서발전 태양광 발전량 예측 AI 경진대회](https://github.com/SeongBeomLEE/Project/tree/main/%EB%8F%99%EC%84%9C%EB%B0%9C%EC%A0%84%20%ED%83%9C%EC%96%91%EA%B4%91%20%EB%B0%9C%EC%A0%84%EB%9F%89%20%EC%98%88%EC%B8%A1%20AI%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C) | 6등 / 234 | [대회 홈페이지](https://dacon.io/competitions/official/235720/overview/description/) |
 | 21년-상반기 | [전력사용량 예측 AI 경진대회](https://github.com/SeongBeomLEE/Project/tree/main/%EC%A0%84%EB%A0%A5%EC%82%AC%EC%9A%A9%EB%9F%89%20%EC%98%88%EC%B8%A1%20AI%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C) | 118등 / 336 | [대회 홈페이지](https://dacon.io/competitions/official/235736/overview/description/) |
 | 21년-상반기 | [신용카드 사용자 연체 예측 AI 경진대회](https://github.com/SeongBeomLEE/Project/tree/main/%EC%8B%A0%EC%9A%A9%EC%B9%B4%EB%93%9C%20%EC%82%AC%EC%9A%A9%EC%9E%90%20%EC%97%B0%EC%B2%B4%20%EC%98%88%EC%B8%A1%20AI%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C) | 135등 / 714 | [대회 홈페이지](https://dacon.io/competitions/official/235713/overview/description/) |
 | 21년-상반기 | [M5 Forecasting - Accuracy](https://github.com/SeongBeomLEE/Project/tree/main/M5%20Forecasting%20-%20Accuracy) | 연습 | [대회 홈페이지](https://www.kaggle.com/c/m5-forecasting-accuracy/overview) |
