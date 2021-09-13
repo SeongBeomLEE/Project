@@ -4,6 +4,8 @@
 
 | 종료 시기 | 대회 및 공모전, 프로젝트명 | 결과 | 기타 |
 | :--- | :--- | :--- | :--- |
+| 21년-하반기 | [2021 빅콘테스트 홍수ZERO]() |  | 공모전 |
+| 21년-하반기 | [2021 금융 데이터 경진대회]() |  | 공모전 |
 | 21년-하반기 | [동서발전 태양광 발전량 예측 AI 경진대회](https://github.com/SeongBeomLEE/Project/tree/main/%EB%8F%99%EC%84%9C%EB%B0%9C%EC%A0%84%20%ED%83%9C%EC%96%91%EA%B4%91%20%EB%B0%9C%EC%A0%84%EB%9F%89%20%EC%98%88%EC%B8%A1%20AI%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C) | 6등 / 234 | [대회 홈페이지](https://dacon.io/competitions/official/235720/overview/description/) |
 | 21년-상반기 | [전력사용량 예측 AI 경진대회](https://github.com/SeongBeomLEE/Project/tree/main/%EC%A0%84%EB%A0%A5%EC%82%AC%EC%9A%A9%EB%9F%89%20%EC%98%88%EC%B8%A1%20AI%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C) | 118등 / 336 | [대회 홈페이지](https://dacon.io/competitions/official/235736/overview/description/) |
 | 21년-상반기 | [경기도의 시유지를 활용한 E-EV 플랫폼](https://github.com/SeongBeomLEE/Project/tree/main/%EA%B2%BD%EA%B8%B0%EB%8F%84%EC%9D%98%20%EC%8B%9C%EC%9C%A0%EC%A7%80%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20E-EV%20%ED%94%8C%EB%9E%AB%ED%8F%BC) | 학과 내 발표 | 프로젝트 |
