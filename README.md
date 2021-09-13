@@ -17,7 +17,7 @@
 | 20년-하반기 | [한신대학교 글로벌 프론티어](https://github.com/SeongBeomLEE/Project/tree/main/%ED%95%9C%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90%20%EA%B8%80%EB%A1%9C%EB%B2%8C%20%ED%94%84%EB%A1%A0%ED%8B%B0%EC%96%B4) | 선발 | 공모전 |
 | 20년-하반기 | [한신대학교 AI 빅데이터 공모전](https://github.com/SeongBeomLEE/Project/tree/main/AI%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B3%B5%EB%AA%A8%EC%A0%84) | 장려상 | 공모전 |
 | 20년-하반기 | [제 1회 삼성카드 데이터 분석 & 아이디어 공모전 SCDC](https://github.com/SeongBeomLEE/Project/tree/main/%EC%A0%9C%201%ED%9A%8C%20%EC%82%BC%EC%84%B1%EC%B9%B4%EB%93%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%26%20%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%20%EA%B3%B5%EB%AA%A8%EC%A0%84%20SCDC) | 입상X | 공모전 |
-| 20년-하반기 | [2020 빅콘테스트 퓨처스리그](https://github.com/SeongBeomLEE/Project/tree/main/2020%EB%B9%85%EC%BD%98%ED%85%8C%EC%8A%A4%ED%8A%B8%20%ED%93%A8%EC%B2%98%EC%8A%A4%EB%A6%AC%EA%B7%B8) | 입상X | 공모전 |
+| 20년-하반기 | [2020 빅콘테스트 KBO 정규시즌 팀별 승률, 타율 및 방어율(평균자책점) 예측](https://github.com/SeongBeomLEE/Project/tree/main/2020%EB%B9%85%EC%BD%98%ED%85%8C%EC%8A%A4%ED%8A%B8%20%ED%93%A8%EC%B2%98%EC%8A%A4%EB%A6%AC%EA%B7%B8) | 입상X | 공모전 |
 | 20년-상반기 | [Convergence Lab 전염병을 예측하는 수학적 모델](https://github.com/SeongBeomLEE/Project/tree/main/Convergence%20Lab) | 학과 내 발표 | 프로젝트 |
 | 19년-하반기 | [Convergence Lab 기업이미지 분석](https://github.com/SeongBeomLEE/Project/tree/main/Convergence%20Lab)  | 학과 내 발표 | 프로젝트 |
 | 19년-상반기 | [한국전자거래학회&한국스마트미디어 학회 2019 춘계학술대회](https://github.com/SeongBeomLEE/Project/tree/main/%ED%95%9C%EA%B5%AD%EC%A0%84%EC%9E%90%EA%B1%B0%EB%9E%98%ED%95%99%ED%9A%8C%26%ED%95%9C%EA%B5%AD%EC%8A%A4%EB%A7%88%ED%8A%B8%EB%AF%B8%EB%94%94%EC%96%B4%20%ED%95%99%ED%9A%8C%202019%20%EC%B6%98%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C) | 동상 | 공모전 |
