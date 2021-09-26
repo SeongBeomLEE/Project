@@ -7,7 +7,7 @@
 | 종료 시기 | 대회 및 공모전, 프로젝트명 | 결과 | 기타 |
 | :--- | :--- | :--- | :--- |
 | 21년-하반기 | [2021 빅콘테스트 - 댐 유입 수량 예측을 통한 최적의 수량 예측 모형 도출](https://github.com/SeongBeomLEE/Project/tree/main/2021_bigcontest) |  | 공모전 |
-| 21년-하반기 | [2021 금융 데이터 경진대회 - 지역 및 업종 Embedding을 활용한 새로운 지역 경제 지표 제시](https://github.com/SeongBeomLEE/Project/tree/main/findata) |  | 공모전 |
+| 21년-하반기 | [2021 금융 데이터 경진대회 - 지역 및 업종 Embedding을 활용한 새로운 지역 경제 지표 제시](https://github.com/SeongBeomLEE/Project/tree/main/2021_findata) |  | 공모전 |
 | 21년-하반기 | [2021 공공빅데이터 청년 인턴십 - 교통약자 전용 광역 저상버스 최적 배차 시간 및 노선도 제안](https://github.com/SeongBeomLEE/Project/tree/main/2021_dataintern) | 발표 | 프로젝트 |
 | 21년-하반기 | [제 12회 투빅스 데이터 분석 컨퍼런스 - 겜플리](https://github.com/SeongBeomLEE/Tobigs_GamePlayList_Model) | 발표 | 프로젝트 |
 | 21년-하반기 | [DACON - 동서발전 태양광 발전량 예측 AI 경진대회](https://github.com/SeongBeomLEE/Project/tree/main/DACON_sunlight) | 6위 / 234팀 | [대회](https://dacon.io/competitions/official/235720/overview/description/) |
