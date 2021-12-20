@@ -19,7 +19,7 @@
 | 2021.03 - 2021.03 | [Kaggle - Tabular Playground Series-Mar 2021](https://github.com/SeongBeomLEE/Project/tree/main/Kaggle_Playground) | 연습 | [대회](https://www.kaggle.com/c/tabular-playground-series-mar-2021) |
 | 2021.03 - 2021.06 | [한신대학교 캡스톤디자인 - 경기도의 시유지를 활용한 E-EV 플랫폼](https://github.com/SeongBeomLEE/Project/tree/main/HS_Capstone) | 발표 | 프로젝트 |
 | 2021.01 - 2021.02 | [DACON - 운동 동작 분류 AI 경진대회](https://github.com/SeongBeomLEE/Project/tree/main/DACON_exercise) | 41위 / 336팀 | [대회](https://dacon.io/competitions/official/235689/overview/description/) |
-| 2020.11 - 2021.01 | [한신대학교 글로벌 프론티어 - 국내외 데이터 활용 선진 사례 분석을 통한 효과적인 데이터 교육 방법](https://github.com/SeongBeomLEE/Project/tree/main/HS_Golbal_Frontier) | 선발 | 프로젝트 |
+| 2020.11 - 2021.01 | [한신대학교 글로벌 프론티어 - 국내외 데이터 활용 선진 사례 분석을 통한 효과적인 데이터 교육 방법](https://github.com/SeongBeomLEE/Project/tree/main/HS_Global_Frontier) | 선발 | 프로젝트 |
 | 2020.11 - 2020.12 | [DACON - AI야, 진짜 뉴스를 찾아줘!](https://github.com/SeongBeomLEE/Project/tree/main/DACON_news) | 142위 / 192팀 | [대회](https://dacon.io/competitions/official/235658/overview/description/) |
 | 2020.11 - 2020.12 | [한신대학교 AI 빅데이터 공모전 - AI기반 문서 인식 지동화 솔류션 도입 제안](https://github.com/SeongBeomLEE/Project/tree/main/HS_AI_Bigdata) | 장려상 | 공모전 |
 | 2020.10 - 2020.11 | [제 1회 삼성카드 데이터 분석 & 아이디어 공모전 SCDC - 팬더믹 시대를 극복할 마케팅 전략](https://github.com/SeongBeomLEE/Project/tree/main/SCDC) | 참가 | 공모전 |
